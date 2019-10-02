@@ -1,15 +1,11 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Commercial Real Estate
+subtitle: Service
 layout: default
 modal-id: 2
 date: 2014-07-17
 img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+description:  We can help you and your business with the transaction of rights of a unit of property between two or more parties, e.g. in case of conveyance one party being the seller(s) and the other being the buyer(s). We can  reduce the often complicated process of dealing with the property rights being transferred, money being exchanged, and local/federal government regulations. 
 ---
