@@ -8,6 +8,6 @@ img: treehouse.png
 thumbnail: treehouse-thumbnail.png
 alt: image-alt
 description: 
-Our legal service covers typical work that attorneys do in the modern practice of law and can include services such as:
+Our legal service covers typical work that attorneys do in the modern practice of law and can include services listed below.
 An attorney or notary public. An arbitrator or mediator. A title insurance agent. An administrator, conservator, executor, guardian, trustee, receiver, or in any similar court appointed fiduciary capacity. An author of legal research papers, including CLE, where remuneration is less that or equal to $25,000. As a member of a bar association or other legal or attorney related ethics, peer review, accreditation, licensing or similar board, committee or organization.
 ---
