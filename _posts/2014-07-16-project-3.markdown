@@ -4,8 +4,8 @@ subtitle: Services
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: service (6).jpg
+thumbnail: service (6).jpg
 alt: image-alt
 description: We can help with the title examation process that includes all public records that affect the title to the real estate you are purchasing. This search involves reviewing past deeds, wills, and trusts to make sure the title has passed correctly to each new owner. We can help to verify that all prior mortgages, judgments, and other liens have been paid in full.
 
