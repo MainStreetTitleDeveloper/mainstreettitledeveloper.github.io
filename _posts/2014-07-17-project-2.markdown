@@ -4,7 +4,7 @@ subtitle: Services
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
+img: service (4).jpg
 thumbnail: escape-thumbnail.png
 alt: image-alt
 description:  We can help you and your business with the transaction of rights of a unit of property between two or more parties, e.g. in case of conveyance one party being the seller(s) and the other being the buyer(s). We can  reduce the often complicated process of dealing with the property rights being transferred, money being exchanged, and local/federal government regulations. 
