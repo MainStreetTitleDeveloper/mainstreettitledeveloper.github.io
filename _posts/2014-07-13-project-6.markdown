@@ -4,8 +4,8 @@ subtitle: Need help?
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+img: service (5).jpg
+thumbnail: service (5).jpg
 alt: image-alt
 project-date: 
 client: 
