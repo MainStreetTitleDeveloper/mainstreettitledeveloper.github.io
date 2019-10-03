@@ -4,8 +4,8 @@ subtitle: Certificates
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+img: service (2).jpg
+thumbnail: service (2).jpg
 alt: image-alt
 project-date: 
 client: 
