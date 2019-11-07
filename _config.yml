@@ -33,6 +33,10 @@ people:
 - name: Diana Petersen
   pic: 3
   position: Lead Developer
+      
+- name: G
+  pic: 2
+  position: Lead Developer
   social:
     - title: twitter
       url: #
