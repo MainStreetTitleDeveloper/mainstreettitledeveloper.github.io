@@ -11,32 +11,32 @@ people:
 - name: Charles J. Neupert Jr.
   pic: charles
   position: Attorney-at-Law
-  social:
-      email: test@gmail.com
-      url: CNeupert@neupertlaw.com
+  email: test@gmail.com
  
 - name: Amy E. Hall
   pic: amy
   position: Manager
-  social:
-    - title: envelope
-      url: mailto:CNeupert@neupertlaw.com
+  email: test@gmail.com
 
 - name: Adrienne S. Remedies
   pic: adrienne
   position: Escrow Officer
+  email: test@gmail.com
       
 - name: Carla Dement
   pic: carla
   position: Post-Closing Supervisor
+  email: test@gmail.com
  
 - name: Morgan Hope
   pic: morgan
   position: Courier/Receptionist
+  email: test@gmail.com
 
 - name: Gaelan Harrington
   pic: gaelan
   position: Website Developer
+  email: test@gmail.com
  
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
