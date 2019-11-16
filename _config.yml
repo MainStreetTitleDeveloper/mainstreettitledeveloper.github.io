@@ -12,9 +12,8 @@ people:
   pic: charles
   position: Attorney-at-Law
   social:
-    - title: envelope
       email: test@gmail.com
-      url: #CNeupert@neupertlaw.com
+      url: CNeupert@neupertlaw.com
  
 - name: Amy E. Hall
   pic: amy
