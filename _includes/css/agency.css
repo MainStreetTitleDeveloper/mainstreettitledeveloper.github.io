@@ -59,6 +59,8 @@ h6 {
 
 .img-centered {
     margin: 0 auto;
+    max-width: 50%;
+    height: auto;
 }
 
 .bg-light-gray {
