@@ -57,10 +57,13 @@ h6 {
     font-weight: 700;
 }
 
-.img-centered {
-    margin: 0 auto;
+.img-modal {
     max-width: 50%;
     height: auto;
+}
+
+.img-centered {
+    margin: 0 auto;
 }
 
 .bg-light-gray {
