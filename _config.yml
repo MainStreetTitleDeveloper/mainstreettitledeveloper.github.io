@@ -10,27 +10,27 @@ description: "Main Street Title is a Shreveport - Bossier City title company pro
 people:
 - name: Charles
   pic: charles
-  position: Lead Engineer
+  position: Attorney-at-Law
  
 - name: Amy
   pic: amy
-  position: Lead Marketer
+  position: Manager
 
 - name: Adrienne
   pic: adrienne
-  position: Lead Developer
+  position: Escrow Officer
       
 - name: Carla
   pic: carla
-  position: Lead Engineer
+  position: Post-Closing Supervisor
  
 - name: Morgan
   pic: morgan
-  position: Lead Marketer
+  position: Courier/Receptionist
 
 - name: Gaelan
   pic: gaelan
-  position: Lead Developer
+  position: Website Developer
  
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
