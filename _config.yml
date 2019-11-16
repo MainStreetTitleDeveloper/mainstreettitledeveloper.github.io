@@ -12,14 +12,15 @@ people:
   pic: charles
   position: Attorney-at-Law
   social:
-    - title: email
+    - title: envelope
+      email: test@gmail.com
       url: #CNeupert@neupertlaw.com
  
 - name: Amy E. Hall
   pic: amy
   position: Manager
   social:
-    - title: mail
+    - title: envelope
       url: mailto:CNeupert@neupertlaw.com
 
 - name: Adrienne S. Remedies
