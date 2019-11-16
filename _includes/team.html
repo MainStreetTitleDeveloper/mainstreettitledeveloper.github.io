@@ -16,6 +16,13 @@
                         <p class="text-muted">{{ member.position }}</p>
                         <ul class="list-inline social-buttons">
                             {% for network in member.social %}
+                            {% if network.email != '' %}
+                             <li>
+                                <a href=""mailto:{{network.email}}">
+                                    <i class="fa fa-envelope"></i>
+                                </a>
+                            </li>
+                            {% endif %}
                             <li>
                                 <a href="{{ network.url }}">
                                     <i class="fa fa-{{ network.title }}"></i>
