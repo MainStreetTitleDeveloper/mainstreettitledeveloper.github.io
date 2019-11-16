@@ -2,8 +2,8 @@ url: https://mainstreettitledeveloper.github.io
 
 # Site settings
 title: Main Street Title LLC
-email: auv-iiitdm@gmail.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+email: mainstreettitledeveloper@gmail.com
+description: "Main Street Title is a Shreveport - Bossier City title company providing the best real estate closing and title services for all of Northwest Louisiana."
 
 
 # Team names, titles and social links
@@ -42,8 +42,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: IIITDM Kancheepuram
-  - line: Chennai-600127
+  - line: 
+  - line: 
 
 # Build settings
 markdown: kramdown
