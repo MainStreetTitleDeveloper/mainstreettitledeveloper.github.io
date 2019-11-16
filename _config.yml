@@ -22,13 +22,13 @@ people:
       
 - name: Carla
   pic: carla
-  position: Lead Developer
-  
-  - name: Morgan
+  position: Lead Engineer
+ 
+- name: Morgan
   pic: morgan
-  position: Lead Developer
-  
-  - name: Gaelan
+  position: Lead Marketer
+
+- name: Gaelan
   pic: gaelan
   position: Lead Developer
  
