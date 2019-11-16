@@ -23,11 +23,13 @@
                                 </a>
                             </li>
                             {% endif %}
+                            {% if network.url != '' %}
                             <li>
                                 <a href="{{ network.url }}">
                                     <i class="fa fa-{{ network.title }}"></i>
                                 </a>
                             </li>
+                             {% end if %}
                             {% endfor %}
 
                         </ul>
