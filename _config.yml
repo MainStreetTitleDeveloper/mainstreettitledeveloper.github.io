@@ -11,10 +11,16 @@ people:
 - name: Charles J. Neupert Jr.
   pic: charles
   position: Attorney-at-Law
+  social:
+    - title: email
+      url: #CNeupert@neupertlaw.com
  
 - name: Amy E. Hall
   pic: amy
   position: Manager
+  social:
+    - title: mail
+      url: mailto:CNeupert@neupertlaw.com
 
 - name: Adrienne S. Remedies
   pic: adrienne
